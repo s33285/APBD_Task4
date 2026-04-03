@@ -1,6 +1,6 @@
 ﻿namespace LegacyRenewalApp.Interfaces;
 
-public class ICustomerRepository
+public interface ICustomerRepository
 {
     Customer GetById(int customerId);
 }

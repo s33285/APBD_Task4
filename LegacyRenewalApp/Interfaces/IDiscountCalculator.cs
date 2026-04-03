@@ -1,6 +1,6 @@
 ﻿namespace LegacyRenewalApp.Interfaces;
 
-public class IDiscountCalculator
+public interface IDiscountCalculator
 {
     (decimal DiscountAmount, string Notes) CalculateDiscount(
         Customer customer, 
