@@ -9,3 +9,11 @@
 /Users/pgago/Downloads/materiały_na_stronę/apbd/wykład_4/zadanie_refactoring_renewal/LegacyRenewalApp/obj/Debug/net8.0/refint/LegacyRenewalApp.dll
 /Users/pgago/Downloads/materiały_na_stronę/apbd/wykład_4/zadanie_refactoring_renewal/LegacyRenewalApp/obj/Debug/net8.0/LegacyRenewalApp.pdb
 /Users/pgago/Downloads/materiały_na_stronę/apbd/wykład_4/zadanie_refactoring_renewal/LegacyRenewalApp/obj/Debug/net8.0/ref/LegacyRenewalApp.dll
+B:\PJATK\4 semester\APBD\Tut_4\zadanie_refactoring_renewal\LegacyRenewalApp\obj\Debug\net8.0\LegacyRenewalApp.GeneratedMSBuildEditorConfig.editorconfig
+B:\PJATK\4 semester\APBD\Tut_4\zadanie_refactoring_renewal\LegacyRenewalApp\obj\Debug\net8.0\LegacyRenewalApp.AssemblyInfoInputs.cache
+B:\PJATK\4 semester\APBD\Tut_4\zadanie_refactoring_renewal\LegacyRenewalApp\obj\Debug\net8.0\LegacyRenewalApp.AssemblyInfo.cs
+B:\PJATK\4 semester\APBD\Tut_4\zadanie_refactoring_renewal\LegacyRenewalApp\obj\Debug\net8.0\LegacyRenewalApp.csproj.CoreCompileInputs.cache
+B:\PJATK\4 semester\APBD\Tut_4\zadanie_refactoring_renewal\LegacyRenewalApp\obj\Debug\net8.0\LegacyRenewalApp.sourcelink.json
+B:\PJATK\4 semester\APBD\Tut_4\zadanie_refactoring_renewal\LegacyRenewalApp\obj\Debug\net8.0\LegacyRenewalApp.dll
+B:\PJATK\4 semester\APBD\Tut_4\zadanie_refactoring_renewal\LegacyRenewalApp\obj\Debug\net8.0\refint\LegacyRenewalApp.dll
+B:\PJATK\4 semester\APBD\Tut_4\zadanie_refactoring_renewal\LegacyRenewalApp\obj\Debug\net8.0\LegacyRenewalApp.pdb
